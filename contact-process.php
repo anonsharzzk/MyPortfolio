@@ -28,8 +28,8 @@
 	$success = '';
 	if (!$errormsg){
 		//change recipient email and subject here
-		$to = "admin@yoursite.com";
-		$subject = "New AboutMe Demo Contact Form Submitted";	
+		$to = "Squadzzzkiller@gmail.com";
+		$subject = "New Lead";	
 		
 		//prepare email body
 		$body_message = "";
