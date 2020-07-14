@@ -328,7 +328,7 @@ document.addEventListener("touchstart", function() {},false);
 */	
 	//Change YOUR MAILCHIMP ACCOUNT LIST FORM ACTION URL
 	$('#mc-form').ajaxChimp({
-		url: 'http://YOUR MAILCHIMP ACCOUNT LIST FORM ACTION'
+		url: 'https://chimpstatic.com/mcjs-connected/js/users/faef15e261354c7f12b6d1c72/901a363852da9b587b43755a3.js'
 	});
 
 /*
